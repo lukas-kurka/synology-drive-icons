@@ -2,6 +2,9 @@
 
 The latest version 2.0.2-11078 of Synology Drive Client available at the release of macOS 11 aka Big Sur contains menu bar icons which are pretty bulky and are not in-line with macOS 11 minimalistic design.
 
+![enter image description here](https://github.com/lukas-kurka/synology-drive-icons/blob/main/sample_black.png)
+
+![enter image description here](https://github.com/lukas-kurka/synology-drive-icons/blob/main/sample_white.png)
 ## Files
 
 This set includes alternative icons for light and dark macOS appearance. Just place both directories **mac-white** and **mac-black** under **~/.SynologyDrive/SynologyDrive.app/Contents/Resources/images/tray**. When in place in Synology drive client navigate to **Settings > Global settings > Display** and tick Use minimalist system tray icon.
