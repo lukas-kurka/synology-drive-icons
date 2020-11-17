@@ -1,4 +1,4 @@
-# Synology drive client macOS minimalistic icons
+# Synology drive client for macOS minimalistic icons
 
 The latest version 2.0.2-11078 of Synology Drive Client available at the release of macOS 11 aka Big Sur contains menu bar icons which are pretty bulky and are not in-line with macOS 11 minimalistic design.
 
