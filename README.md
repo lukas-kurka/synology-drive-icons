@@ -2,7 +2,7 @@
 
 The latest version 2.0.4-11112 of Synology Drive Client available at the release of macOS 11 aka Big Sur contains menu bar icons which are pretty bulky and are not in-line with macOS 11 minimalistic design.
 
-These alternative icons try to be as close as possible to the macOS graphical design.
+These alternative icons try to be as close as possible to the macOS 11 graphical design.
 
 ![enter image description here](https://github.com/lukas-kurka/synology-drive-icons/blob/main/sample_black.png)
 
